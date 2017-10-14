@@ -62,4 +62,5 @@ namespace SeleniumTests
         public void MyTestInitialize()
         {
         }
-    }}
+    }
+}
